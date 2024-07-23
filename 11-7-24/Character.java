@@ -1,0 +1,51 @@
+class Character{
+public static void main(String[] args){
+char kavana='a';
+char rohit='b';
+char pallavi='c';
+char divya='d';
+char sangeeta='e';
+char arjun='f';
+char raj='g';
+char priya='h';
+char sania='i';
+char kiccha='j';
+char hith='k';
+char ganesh='l';
+char thilak='m';
+char suresh='n';
+char prema='o';
+char[] email={kavana,rohit,pallavi,divya,sangeeta,arjun,raj,priya,sania,kiccha,hith,ganesh,thilak,suresh,prema};
+int totalmails=email.length;
+		char ref=email[0];
+		char ref1=email[1];
+		char ref2=email[2];
+		char ref3=email[3];
+		char ref4=email[4];
+		char ref5=email[5];
+		char ref6=email[6];
+		char ref7=email[7];
+		char ref8=email[8];
+		char ref9=email[9];
+		char ref10=email[10];
+		char ref11=email[11];
+		char ref12=email[12];
+		char ref13=email[13];
+		char ref14=email[14];
+		System.out.println(ref);
+		System.out.println(ref1);
+		System.out.println(ref2);
+		System.out.println(ref3);
+		System.out.println(ref4);
+		System.out.println(ref5);
+		System.out.println(ref6);
+		System.out.println(ref7);
+		System.out.println(ref8);
+		System.out.println(ref9);
+		System.out.println(ref10);
+		System.out.println(ref11);
+		System.out.println(ref12);
+		System.out.println(ref13);
+		System.out.println(ref14);
+    }
+}
